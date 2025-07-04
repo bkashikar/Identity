@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CortekAI.Security.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3be5cbcbf6a9613994223605a00bd1d7baa96f6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CortekAI.Security.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CortekAI.Security.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

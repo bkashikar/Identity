@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qs+1VA1ylt0=",
+  "dgSpecHash": "iOXORERQIXo=",
   "success": true,
-  "projectFilePath": "C:\\My Work\\Okta\\CortekAI.Security.Service\\CortekAI.Security.Service\\CortekAI.Security.Service.csproj",
+  "projectFilePath": "C:\\My Work\\Okta\\Identity\\CortekAI.Security.Service\\CortekAI.Security.Service\\CortekAI.Security.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhave\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\bhave\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

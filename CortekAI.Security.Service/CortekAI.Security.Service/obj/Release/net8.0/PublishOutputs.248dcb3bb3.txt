@@ -1,0 +1,12 @@
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\CortekAI.Security.Service.exe
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\CortekAI.Security.Service.dll
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\CortekAI.Security.Service.deps.json
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\CortekAI.Security.Service.runtimeconfig.json
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\CortekAI.Security.Service.pdb
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

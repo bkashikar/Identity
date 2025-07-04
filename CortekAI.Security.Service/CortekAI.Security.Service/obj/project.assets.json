@@ -497,11 +497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Work\\Okta\\CortekAI.Security.Service\\CortekAI.Security.Service\\CortekAI.Security.Service.csproj",
+      "projectUniqueName": "C:\\My Work\\Okta\\Identity\\CortekAI.Security.Service\\CortekAI.Security.Service\\CortekAI.Security.Service.csproj",
       "projectName": "CortekAI.Security.Service",
-      "projectPath": "C:\\My Work\\Okta\\CortekAI.Security.Service\\CortekAI.Security.Service\\CortekAI.Security.Service.csproj",
+      "projectPath": "C:\\My Work\\Okta\\Identity\\CortekAI.Security.Service\\CortekAI.Security.Service\\CortekAI.Security.Service.csproj",
       "packagesPath": "C:\\Users\\bhave\\.nuget\\packages\\",
-      "outputPath": "C:\\My Work\\Okta\\CortekAI.Security.Service\\CortekAI.Security.Service\\obj\\",
+      "outputPath": "C:\\My Work\\Okta\\Identity\\CortekAI.Security.Service\\CortekAI.Security.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
