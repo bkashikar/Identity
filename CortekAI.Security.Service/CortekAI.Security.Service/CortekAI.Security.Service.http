@@ -1,0 +1,6 @@
+@CortekAI.Security.Service_HostAddress = http://localhost:5195
+
+GET {{CortekAI.Security.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
