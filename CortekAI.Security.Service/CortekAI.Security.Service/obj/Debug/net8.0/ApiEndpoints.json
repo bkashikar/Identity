@@ -1,27 +1,6 @@
 [
   {
     "ContainingType": "CortekAI.Security.Service.Controllers.SecurityController",
-    "Method": "Get",
-    "RelativePath": "Security",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[CortekAI.Security.Service.WeatherForecast, CortekAI.Security.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "GetWeatherForecast"
-  },
-  {
-    "ContainingType": "CortekAI.Security.Service.Controllers.SecurityController",
     "Method": "Login",
     "RelativePath": "Security",
     "HttpMethod": "POST",
