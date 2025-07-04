@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "c9Ff+/yMvSY=",
+  "success": true,
+  "projectFilePath": "C:\\My Work\\Okta\\Identity\\CortekAI.Security.Service\\CortekAI.Security.Service\\CortekAI.Security.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhave\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.17\\microsoft.netcore.app.runtime.win-x86.8.0.17.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.17\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.17.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.17\\microsoft.aspnetcore.app.runtime.win-x86.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -3,7 +3,7 @@
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\My Work\Okta\Identity\CortekAI.Security.Service\CortekAI.Security.Service\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-07-04T10:56:34.3160791Z||;True|2025-07-04T15:32:37.4993620+05:30||;</History>
+    <History>True|2025-07-04T11:23:17.3746114Z||;True|2025-07-04T16:26:34.3160791+05:30||;True|2025-07-04T15:32:37.4993620+05:30||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
